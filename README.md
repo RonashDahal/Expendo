@@ -5,6 +5,7 @@ Expense Manager(Expendo) is a web application designed to help you manage and tr
 ---
 
 ## Features
+- Website With full user Login System
 - Track income and expenses.
 - Generate monthly reports with bar and charts.
 - Categorize expenses for better insights.
@@ -33,7 +34,7 @@ Expense Manager(Expendo) is a web application designed to help you manage and tr
 
 3. **Import the Database**
    - Open [phpMyAdmin](http://localhost/phpmyadmin/) in your browser.
-   - Create a new database named `expense_manager`.
+   - Create a new database named `dailyexpense`.
    - Import the two SQL files provided in the `database` folder:
      - `dailyexpense.sql` for the expense table structure.
      - `sucessquery.sql` for the profit table Structure.
