@@ -53,7 +53,7 @@ Expense Manager(Expendo) is a web application designed to help you manage and tr
 ## Troubleshooting
 
 - **Blank Page:** Check if the database connection details in `config.php` are correct.
-- **SQL Import Error:** Ensure the SQL files are complete and you are importing them into a database named `expense_manager`.
+- **SQL Import Error:** Ensure the SQL files are complete and you are importing them into a database named `dailyexpense`.
 - **Apache/MySQL Issues:** Restart XAMPP and ensure the services are running.
 
 ---
